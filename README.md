@@ -1,3 +1,5 @@
+<a href="https://salwyx.github.io/"><img src="visit-portfolio.svg" width="900" alt="OPEN MY WEBSITE → SALWYX.GITHUB.IO" /></a>
+
 <a href="https://salwyx.github.io/"><img src="profile-banner.svg" width="900" alt="fastboot · @salwyx — Designer. Coder. Guitarist." /></a>
 
 **[Explore my portfolio ↗](https://salwyx.github.io/)** · [Let’s build at a hackathon ↗](https://t.me/biden911)
@@ -30,6 +32,8 @@ Brian May is an inspiration. I play guitar, work with a soldering iron and share
 
 <br clear="all" />
 
+**[OPEN THE FULL EXPERIENCE → SALWYX.GITHUB.IO](https://salwyx.github.io/)**
+
 ### Find me
 
 [**TikTok ↗**](https://www.tiktok.com/@fastboot69) &nbsp; / &nbsp; [**Telegram ↗**](https://t.me/biden911) &nbsp; / &nbsp; [**YouTube ↗**](https://www.youtube.com/@f4stb00t) &nbsp; / &nbsp; **Discord: @f4stb00t**
@@ -38,6 +42,6 @@ Brian May is an inspiration. I play guitar, work with a soldering iron and share
 
 ### Activity
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" /><img src="assets/snake.svg" width="900" alt="Snake eating my GitHub contributions — updated daily" /></picture>
+<img src="assets/snake-dark.svg" width="900" alt="Snake eating my GitHub contributions — updated daily" />
 
 <sub>[Interactive portfolio](https://salwyx.github.io/) · [Photo credits](PHOTO-CREDITS.md)</sub>
