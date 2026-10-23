@@ -22,14 +22,14 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             assets/snake.svg?color_snake=#ec232c&color_dots=#c4c9d0,#ffb4b9,#ff7b86,#f44355,#ec232c
-            assets/snake-dark.svg?color_snake=#ff263d&color_dots=#89939f,#ffd0d4,#ff929e,#fa586e,#ff263d
+            assets/snake-contrast.svg?color_snake=#ff263d&color_dots=#89939f,#ffd0d4,#ff929e,#fa586e,#ff263d
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Save actual contribution animations
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add assets/snake.svg assets/snake-dark.svg
+          git add assets/snake.svg assets/snake-contrast.svg
           if ! git diff --cached --quiet; then
             git commit -m 'Update contribution snake'
             git push
