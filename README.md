@@ -42,6 +42,6 @@ Brian May is an inspiration. I play guitar, work with a soldering iron and share
 
 ### Activity
 
-<img src="assets/snake-dark.svg" width="900" alt="Snake eating my GitHub contributions — updated daily" />
+<img src="assets/snake-dark.svg?v=contrast-2" width="900" alt="Snake eating my GitHub contributions — updated daily" />
 
 <sub>[Interactive portfolio](https://salwyx.github.io/) · [Photo credits](PHOTO-CREDITS.md)</sub>
